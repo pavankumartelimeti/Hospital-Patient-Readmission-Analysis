@@ -89,8 +89,3 @@ Connect tables on `primary_diagnosis` field:
 
 ---
 
-## 💡 Storytelling Tips for Resume/Interview
-1. **Lead with the problem**: "30-day readmissions cost the US healthcare system $26B/year"
-2. **Show the insight**: "Heart Failure patients had a 22% readmission rate — 54% above average"
-3. **Quantify impact**: "The ML model identifies 475 high/critical risk patients, enabling targeted interventions"
-4. **Business recommendation**: "Focus care coordination on Uninsured + Heart Failure patients at discharge"
